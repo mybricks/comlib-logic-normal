@@ -1,0 +1,12 @@
+{
+  "title": "Scratch计算",
+  "namespace": "mybricks.normal-logic.scratch",
+  "author": "CheMingjun",
+  "author_name": "车明君",
+  "version": "1.0.29",
+  "description": "Scratch计算",
+  "icon": "./icon.png",
+  "data": "./data.json",
+  "editors": "./editors.ts",
+  "runtime": "./runtime.ts"
+}

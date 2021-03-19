@@ -1,0 +1,19 @@
+{
+  "name": "@mybricks/comlib-logic-normal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mybricks/comlib-logic-normal.git"
+  },
+  "author": "CheMingjun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mybricks/comlib-logic-normal/issues"
+  },
+  "homepage": "https://github.com/mybricks/comlib-logic-normal#readme"
+}

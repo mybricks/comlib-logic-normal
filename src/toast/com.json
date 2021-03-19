@@ -1,0 +1,34 @@
+{
+  "title": "消息",
+  "namespace": "mybricks.logic-normal.toast",
+  "author": "CheMingjun",
+  "author_name": "车明君",
+  "version": "1.0.14",
+  "description": "消息",
+  "icon": "./icon.png",
+  "data": "./data.json",
+  "runtime": "./runtime.ts",
+  "editors": "./editors.ts",
+  "inputs": [
+    {
+      "id": "toast",
+      "title": "提示消息",
+      "schema": {
+        "request": [
+          {
+            "title": "提示消息",
+            "type": "string"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "response": [
+          {
+            "type": "null"
+          }
+        ]
+      }
+    }
+  ]
+}
